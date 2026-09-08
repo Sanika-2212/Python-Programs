@@ -9,7 +9,7 @@
 ######################################################################################
 
 def Factorial(Value):
-    total = 1
+    total = 
     for i in range(1,Value+1):
         total = total * i
 
