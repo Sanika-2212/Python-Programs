@@ -1,7 +1,7 @@
 class Base:
     pass
 
-class Derived(Base):  
+class Derived(Base):
     pass
 
 #Java :- class Derived extends Base
