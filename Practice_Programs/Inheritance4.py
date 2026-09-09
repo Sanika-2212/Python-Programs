@@ -2,7 +2,7 @@ class Base:
     def fun(self):
         print("Inside Base Fun")
 
-class Derived(Base):  
+class Derived(Base):
    pass
 
 dobj = Derived()
